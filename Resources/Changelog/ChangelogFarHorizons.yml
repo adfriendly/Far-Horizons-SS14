@@ -5,3 +5,11 @@ Entries:
     type: Add
   id: 1
   time: '2025-10-02T10:00:00.000000+00:00'
+- author: princess_gurchi
+  changes:
+  - message: CI fixes
+    type: Fix
+  id: 10400
+  time: '2025-10-02T11:28:38.000000+00:00'
+  url: https://github.com/Far-Horizons-SS14/Far-Horizons-SS14/pull/104
+
